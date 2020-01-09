@@ -5,6 +5,9 @@
 ### Tania Allard (Microsoft)
 * Title: TBC
 
+### Jamie Buelta (Rapid Ratings)
+* Title: The Emotional Demands of being a Software Engineer
+
 ### Dermot Canniffe
 * Title: Bias Engineering
 
