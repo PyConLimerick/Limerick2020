@@ -51,14 +51,17 @@ Conference Code of Conduct by Python Ireland Developers Limited is licensed unde
 #### Attendee Procedure for incident handling
 This procedure has been adopted from the Ada Initiative’s guide titled “Conference anti-harassment/Responding to Reports“.
 
-    Keep in mind that all conference staff will be wearing a conference t-shirt/button with the word “STAFF” on it (or otherwise clearly marked as staff). The staff will also be prepared to handle the incident. All of our staff are informed of the code of conduct policy and guide for handling harassment at the conference. *There will be a mandatory staff meeting onsite at the conference when this will be reiterated.*
-    Report the harassment incident (preferably in writing) to a conference staff member. All reports are confidential. Please do not disclose public information about the incident until the staff have had sufficient time in which to address the situation. This is as much for your safety and protection as it is the other attendees. When reporting the event to staff, try to gather as much information as available but do not interview people about the incident. Staff will assist you in writing the report/collecting information. The important information consists of:
-        Identifying information (name/badge number) of the participant doing the harassing
-        The approximate time of the behavior (if different than the time the report was made)
-        The circumstances surrounding the incident
-        Other people involved in the incident
-    The staff is well informed on how to deal with the incident and how to further proceed with the situation.
-    If everyone is presently physically safe, involve law enforcement or security only at a victim’s request. If you do feel your safety in jeopardy please do not hesitate to contact local law enforcement by dialing 112. If you do not have a cell phone, you can use any hotel phone or simply ask a staff member. If at all possible, all reports should be made directly to the event organiser or Python Ireland Chairperson.
+Keep in mind that all conference staff will be wearing a conference t-shirt/button with the word “STAFF” on it (or otherwise clearly marked as staff). The staff will also be prepared to handle the incident. All of our staff are informed of the code of conduct policy and guide for handling harassment at the conference. *There will be a mandatory staff meeting onsite at the conference when this will be reiterated.*
+
+Report the harassment incident (preferably in writing) to a conference staff member. All reports are confidential. Please do not disclose public information about the incident until the staff have had sufficient time in which to address the situation. This is as much for your safety and protection as it is the other attendees. When reporting the event to staff, try to gather as much information as available but do not interview people about the incident. Staff will assist you in writing the report/collecting information. The important information consists of:
+*        Identifying information (name/badge number) of the participant doing the harassing
+*        The approximate time of the behavior (if different than the time the report was made)
+*        The circumstances surrounding the incident
+*        Other people involved in the incident
+
+The staff is well informed on how to deal with the incident and how to further proceed with the situation.
+
+If everyone is presently physically safe, involve law enforcement or security only at a victim’s request. If you do feel your safety in jeopardy please do not hesitate to contact local law enforcement by dialing 112. If you do not have a cell phone, you can use any hotel phone or simply ask a staff member. If at all possible, all reports should be made directly to the event organiser or Python Ireland Chairperson.
 
 #### Attendee Procedure for incident handling
 
@@ -111,6 +114,10 @@ Some things for the staff to consider when dealing with Code of Conduct offender
 *    Removing a harasser from membership of relevant organisations
 *    Publishing an account of the harassment and calling for the resignation of the harasser from their responsibilities (usually pursued by people without formal authority: may be called for if the harasser is the event leader, or refuses to stand aside from the conflict of interest, or similar, typically event staff have sufficient governing rights over their space that this isn’t as useful)
 
-Give accused attendees a place to appeal to if there is one, but in the meantime the report stands. Keep in mind that it is not a good idea to encourage an apology from the harasser. It is very important how we deal with the incident publicly. Our policy is to make sure that everyone aware of the initial incident is also made aware that it is not according to policy and that official action has been taken – while still respecting the privacy of individual attendees. When speaking to individuals (those who are aware of the incident, but were not involved with the incident) about the incident it is a good idea to keep the details out. Depending on the incident, the conference chair, or designate, may decide to make one or more public announcements. If necessary, this will be done with a short announcement either during the plenary and/or through other channels. No one other than the conference chair or someone delegated authority from the conference chair should make any announcements. No personal information about either party will be disclosed as part of this process. If some attendees were angered by the incident, it is best to apologize to them that the incident occurred to begin with. If there are residual hard feelings, suggest to them to write an email to the conference chair or to the event coordinator. It will be dealt with accordingly.
+Give accused attendees a place to appeal to if there is one, but in the meantime the report stands. Keep in mind that it is not a good idea to encourage an apology from the harasser. It is very important how we deal with the incident publicly. Our policy is to make sure that everyone aware of the initial incident is also made aware that it is not according to policy and that official action has been taken – while still respecting the privacy of individual attendees. When speaking to individuals (those who are aware of the incident, but were not involved with the incident) about the incident it is a good idea to keep the details out. 
+
+Depending on the incident, the conference chair, or designate, may decide to make one or more public announcements. If necessary, this will be done with a short announcement either during the plenary and/or through other channels. No one other than the conference chair or someone delegated authority from the conference chair should make any announcements. No personal information about either party will be disclosed as part of this process. 
+
+If some attendees were angered by the incident, it is best to apologize to them that the incident occurred to begin with. If there are residual hard feelings, suggest to them to write an email to the conference chair or to the event coordinator. It will be dealt with accordingly.
 
 
