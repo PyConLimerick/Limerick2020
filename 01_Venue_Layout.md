@@ -1,5 +1,15 @@
 
+### Audience
+
+* We expect 100-150 attendees to come, with a lot of career-young professionals and university students.
+* One of the intended outcomes of this event is about developing future talent.
+
+* We will have a main track, with conventional PyCon style talks, and also a room (or rooms) for workshops.
+
+
 ### Venue Layout
+
+The venue can be configured to have multiple small tracks running simultaneously. 
 
 Please find a floor plan for the top floor of the Strand hotel attached in this github repository 
 The configuration will be either 2 or 3 talk tracks
