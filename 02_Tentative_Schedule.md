@@ -1,5 +1,5 @@
 
-#### Schedule and format is provisional
+#### Schedule and format is very provisional
 
 ## Morning Session 1
 
@@ -7,7 +7,7 @@
 |---|-----|-----|-----|-------|
 |9.45-10.00| Welcome Address|  Welcome Address | Welcome Address | Welcome Address |
 |10.00-10.30 | Urja Pawar| James Nagle | | Jumping Rivers|
-|10.30-11.00 | Krystian Czekalski | | | Jumping Rivers|
+|10.30-11.00 | Krystian Czekalski | Olga Lyashevska| | Jumping Rivers|
 
 #### Coffee Break 11.00-11.30
 
@@ -26,8 +26,8 @@
 | |Room 1| Room 2 | Room 3 | Workshops |
 |---|-----|-----|-----|-------|
 |2.00.-2.30| Chirag Shah | Miguel Ginsberg   | Welcome Address | John McCarthy|
-|2.30-3.00 | Gary Chadwick |  | | John McCarthy|
-|3.00-3.30 | Allyn Hunt| James Nagle | | John McCarthy|
+|2.30-3.00 | Gary Chadwick | Nial O'Connor | | John McCarthy|
+|3.00-3.30 | Allyn Hunt| Laurent Picard | | John McCarthy|
 
 #### Coffee Break 3.30-4.00
 

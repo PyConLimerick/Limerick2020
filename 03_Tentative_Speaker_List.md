@@ -22,12 +22,19 @@
 
 ### Allyn Hunt
 * Title: Adding data visualization to your Flask app with React Victory Charts
+* 45 Minutes
 
 ### Iain Keaney (Skellig.ai)
 * Title: High-Level APIs for Machine Learning
+* 30 Minutes
+
+### Olga Lyashevska
+* Title: Class imbalance in gradient boosting classification algorithms: application to experimental stroke data
+
 
 ### Daniel McInerney (OSGeo Ireland)
 * Title: Python for Earth Observation Science
+* (Check if this is a workshop)
 
 ### James Nagle (Kerry Data Science)
 * Title: A Social Network of the 1916 Rising
@@ -37,6 +44,7 @@
 
 ### Urja Pawar (PhD Student @ Cork IT)
 * Title:  Concurrency & Parallel Programming 
+* 30 minutes
 
 ### Laurent Picard
 * Title: Building smarter solutions with no expertise in machine learning
@@ -58,3 +66,4 @@
 
 ### Domas Zelionis
 * Title: TBC (Topics: Flask-AppBuilder + Customization + Mongo DB)
+* 45 Minutes
