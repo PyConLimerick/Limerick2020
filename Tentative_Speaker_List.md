@@ -2,9 +2,18 @@
 ### Johannes Ahlessman
 * Title: "Python stream processing using Python, Kafka and Faust"
 
+### Tania Allard (Microsoft)
+* Title: TBC
+
 ### Dermot Canniffe
 * Title: Bias Engineering
 
+### Gary Chadwick (Cartoon Saloon)
+* Title: Tailoring Scripts to Fit
+
+### Krystian Czekalski (ResourceKraft)
+* Title: GraphQL with Python
+ 
 ### Miguel Grinsberg
 * Title: "I Want To Know What You Did Last Summer" - Engaging with the Python Community
 
@@ -23,29 +32,26 @@
 ### Niall O'Connor 
 * Title: Machine learning to trade and make money!
 
-### John O'Reilly
-* Title: A Python ROS framework to build your own robots from [Workshop]
-
 ### Urja Pawar (PhD Student @ Cork IT)
 * Title:  Concurrency & Parallel Programming 
-
-### Paul Palmes (IBM Dublin)
-* Title:  Machine Learning with Python and Julia
 
 ### Laurent Picard
 * Title: Building smarter solutions with no expertise in machine learning
 
 ### Krunoslav Plecko:
-Title: Visualising Youtube video context (NLP pipeline)
+* Title: Visualising Youtube video context (NLP pipeline)
 
 ### Meghana Rathi (UCD)
-Title: Playing Pong with AI and Control
+* Title: Playing Pong with AI and Control
 
 ### Chirag Shah (UCD)
-Title: Understanding multithreading by deciphering the Cpython Intepreter source code
+* Title: Understanding multithreading by deciphering the Cpython Intepreter source code
 
 ### Cheuk-ho Ting (PyData London)
-Title: Are you supporting the right politician? - Graph Visualization of Voting Data
+* Title: Are you supporting the right politician? - Graph Visualization of Voting Data
 
 ### Arjumand Younus (UCD / WiMLDS Dublin)
-Title: Python for Social Good Projects
+* Title: Python for Social Good Projects
+
+### Domas Zelionis
+* Title: TBC (Topics: Flask-AppBuilder + Customization + Mongo DB)
