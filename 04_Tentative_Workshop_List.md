@@ -7,7 +7,7 @@
 * Taking place in Henehan Suite - Venue Capacity is Approx 30
 
 ### Paul Palmes (IBM Dublin)
-* Title:  Machine Learning with Python and Julia
+* Title:  Machine learning and high-performance computing with PyCall
 * Taking place in De Lacey Room  - Venue Capacity : Approx 10
 
 ### John O'Reilly
