@@ -5,7 +5,7 @@
 ### Tania Allard (Microsoft)
 * Title: TBC
 
-### Jamie Buelta (Rapid Ratings)
+### Jaime Buelta (Rapid Ratings)
 * Title: The Emotional Demands of being a Software Engineer
 * 30 Minutes
 
@@ -17,6 +17,7 @@
 
 ### Prashant Chaubey
 * Writing Good Python
+* 30 Minutes
 
 ### Krystian Czekalski (ResourceKraft)
 * Title: GraphQL with Python
@@ -24,7 +25,8 @@
 
 ### Miguel Grinsberg
 * Title: "I Want To Know What You Did Last Summer" - Engaging with the Python Community
-* 
+* 30 Minutes
+
 ### Allyn Hunt
 * Title: Adding data visualization to your Flask app with React Victory Charts
 * 45 Minutes
