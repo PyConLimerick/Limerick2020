@@ -7,6 +7,7 @@
 
 ### Jamie Buelta (Rapid Ratings)
 * Title: The Emotional Demands of being a Software Engineer
+* 30 Minutes
 
 ### Dermot Canniffe
 * Title: Bias Engineering
@@ -14,19 +15,22 @@
 ### Gary Chadwick (Cartoon Saloon)
 * Title: Tailoring Scripts to Fit
 
+### Prashant Chaubey
+* Writing Good Python
+
 ### Krystian Czekalski (ResourceKraft)
 * Title: GraphQL with Python
 * 30 Minutes
 
 ### Miguel Grinsberg
 * Title: "I Want To Know What You Did Last Summer" - Engaging with the Python Community
-
+* 
 ### Allyn Hunt
 * Title: Adding data visualization to your Flask app with React Victory Charts
 * 45 Minutes
 
 ### Chidubem Iddianozie
-Title: Discriminative Machine Learning models for semantifying IoT data: Why, How and Lessons Learnt.
+* Title: Discriminative Machine Learning models for semantifying IoT data: Why, How and Lessons Learnt.
 
 ### Iain Keaney (Skellig.ai)
 * Title: High-Level APIs for Machine Learning
