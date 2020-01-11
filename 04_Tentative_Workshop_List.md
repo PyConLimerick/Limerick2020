@@ -13,3 +13,8 @@
 ### John O'Reilly
 * Title: A Python ROS framework to build your own robots from 
 * Taking place in Henehan Suite - Venue Capacity is Approx 30
+
+### Daniel McInerney (OSGeo)
+* OSGeo Live for Beginners
+
+
