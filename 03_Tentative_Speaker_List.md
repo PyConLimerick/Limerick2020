@@ -1,83 +1,81 @@
 
-### Johannes Ahlessman
+### 1. Johannes Ahlessman
 * Title: "Python stream processing using Python, Kafka and Faust"
 
-### Tania Allard (Microsoft)
+### 2. Tania Allard (Microsoft)
 * Title: TBC
 
-### Jaime Buelta (Rapid Ratings)
+### 3. Jaime Buelta (Rapid Ratings)
 * Title: The Emotional Demands of being a Software Engineer
 * 30 Minutes
 
-### Dermot Canniffe
+### 4. Dermot Canniffe
 * Title: Bias Engineering
 
-### Gary Chadwick (Cartoon Saloon)
+### 5. Gary Chadwick (Cartoon Saloon)
 * Title: Tailoring Scripts to Fit
 
-### Prashant Chaubey
+### 6. Prashant Chaubey
 * Writing Good Python
 * 30 Minutes
 
-### Krystian Czekalski (ResourceKraft)
+### 7. Krystian Czekalski (ResourceKraft)
 * Title: GraphQL with Python
 * 30 Minutes
 
-### Miguel Grinsberg
+### 8. Miguel Grinsberg
 * Title: "I Want To Know What You Did Last Summer" - Engaging with the Python Community
 * 30 Minutes
 
-### Allyn Hunt
+### 9. Allyn Hunt
 * Title: Adding data visualization to your Flask app with React Victory Charts
 * 45 Minutes
 
-### Chidubem Iddianozie
+### 10. Chidubem Iddianozie
 * Title: Discriminative Machine Learning models for semantifying IoT data: Why, How and Lessons Learnt.
 
-### Iain Keaney (Skellig.ai)
+### 11. Iain Keaney (Skellig.ai)
 * Title: High-Level APIs for Machine Learning
 * 30 Minutes
 
-### Olga Lyashevska
+### 12. Olga Lyashevska
 * Title: Class imbalance in gradient boosting classification algorithms: application to experimental stroke data
 
-
-### Daniel McInerney (OSGeo Ireland)
-* Title: Python for Earth Observation Science
-* (Check if this is a workshop)
-
-### James Nagle (Kerry Data Science)
+### 13. James Nagle (Kerry Data Science)
 * Title: A Social Network of the 1916 Rising
 * 30 Minutes
 
-### Niall O'Connor 
+### 14. Niall O'Connor 
 * Title: Machine learning to trade and make money!
 * 30 Minutes
 
-### Urja Pawar (PhD Student @ Cork IT)
+### 15. Urja Pawar (PhD Student @ Cork IT)
 * Title:  Concurrency & Parallel Programming 
 * 30 minutes
 
-### Laurent Picard
+### 16. Laurent Picard
 * Title: Building smarter solutions with no expertise in machine learning
+* 45 Minutes
 
-### Krunoslav Plecko:
+### 17. Krunoslav Plecko:
 * Title: Visualising Youtube video context (NLP pipeline)
 * 45 Minutes
 
-### Meghana Rathi (UCD)
+### 18. Meghana Rathi (UCD)
 * Title: Playing Pong with AI and Control
 
-### Chirag Shah (UCD)
+### 19. Chirag Shah (UCD)
 * Title: Understanding multithreading by deciphering the Cpython Intepreter source code
 * 30 Minutes
 
-### Cheuk-ho Ting (PyData London)
+### 20. Cheuk-Ho Ting (PyData London)
 * Title: Are you supporting the right politician? - Graph Visualization of Voting Data
+* 45 Minutes
 
-### Arjumand Younus (UCD / WiMLDS Dublin)
+### 21. Arjumand Younus (UCD / WiMLDS Dublin)
 * Title: Python for Social Good Projects
+* 30 Minutes
 
-### Domas Zelionis
+### 22. Domas Zelionis
 * Title: TBC (Topics: Flask-AppBuilder + Customization + Mongo DB)
 * 45 Minutes
