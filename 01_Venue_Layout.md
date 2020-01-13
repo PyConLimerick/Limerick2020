@@ -12,7 +12,7 @@
 
 The venue can be configured to have multiple small tracks running simultaneously. 
 
-Please find a floor plan for the top floor of the Strand hotel attached in this github repository 
+Please find a floor plan for the top floor of the Strand hotel attached in this [github repository](https://github.com/PyConLimerick/Limerick2020/blob/master/Strand%20Hotel%20-%206th%20floor.pdf). 
 The configuration will be either 2 or 3 talk tracks. 
 
 Speakers do not have to pay for this event, but you do ask that you register and have a ticket ready when you register
