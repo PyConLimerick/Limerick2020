@@ -24,10 +24,8 @@
 
 | |Room 1| Room 2 | Room 3 | Room 4 | Workshops  |
 |---|-----|-----|-----|-------|-------|
-|2.10.-2.40| 	 Miguel Grinsberg	|	 Niall O'Connor	|	 Arjumand Younus (UCD / WiMLDS Dublin)	|	 Chirag Shah (UCD)	|
- John McCarthy (Workshop) |
-|2.45 -3.15 | 	 Iain Keaney (Skellig  ai)	|	 Prashant Chaubey	|	Stephen McEntree	|	 Chidubem Iddianozie	|
- John McCarthy (Workshop) |
+|2.10.-2.40| 	 Miguel Grinsberg	|	 Niall O'Connor	|	 Arjumand Younus (UCD / WiMLDS Dublin)	|	 Chirag Shah (UCD)	| John McCarthy (Workshop) |
+|2.45 -3.15 | 	 Iain Keaney (Skellig  ai)	|	 Prashant Chaubey	|	Stephen McEntree	|	 Chidubem Iddianozie	| John McCarthy (Workshop) |
 
 
 #### Coffee Break 3.30-4.00
