@@ -63,7 +63,7 @@
 * 30 minutes
 
 ### 18. Matteo Perico
-* Title:
+* Title: Customer Churn Prediction and Segmentation Techniques
 * 30 Minutes
 
 ### 19. Laurent Picard
@@ -82,7 +82,8 @@
 * 30 Minutes
 
 ### 23. Kartik Sharma
-* Title TBC
+* Title: ELK Stack with Python for Effective Logging
+
 
 ### 24. Cheuk-Ho Ting (PyData London)
 * Title: Are you supporting the right politician? - Graph Visualization of Voting Data
