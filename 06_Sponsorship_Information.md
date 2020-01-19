@@ -32,3 +32,28 @@ Several prominent keynote speakers are expected to be in attendance.
 
 The event will be organized under the Python Ireland Code of Conduct, which can be found on the event website (www.pycon.ie)
 In the lead up to the event, an "on-the-day" plan will be finalized, with Code of Conduct responders being appointed.
+
+### FAQ
+
+#### Can we setup our booth the say before ?
+
+* No, the floor is rented for another event, we suggest you arrive at 8:30am to install your booth?
+
+####  Can we have boxes delivered to the hotel before ?
+
+* Yes, you can send them to the attention of Python Ireland, Chloe Fahy.
+
+#### When do we must to clear the room ?
+
+* The event will end at 5:30pm. We must then pack since it is rented for another event for the evening.
+
+#### What is included in catering ?
+
+* Only coffee break, there is a break for lunch, but it is not included.
+
+### Do we need to buy ticket for our staff ?
+
+* It depends, everyone is required to wear a badge during the event. 
+* Personnel for your booth can be provided with exhibitor badges at no extra cost. 
+* Speakers will receive a link to claim their ticket for free. 
+* All other delegates are expected to buy a ticket, it is required to attend the talks or workshops.
