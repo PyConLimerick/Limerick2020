@@ -1,4 +1,4 @@
-### Submission 16
+### Writing Good Python Code
 
 We love python because of its readability, massive ecosystem, vibrant community etc. and the list goes on. 
 However, like other programming languages, it is easy to write cryptic, unmaintainable, and rigid python code. In short an ugly code(I can give an example). Moreover in teams, this problem escalates as different developers have diverse code styles. How to ensure code quality and homogeneity? 
