@@ -1,15 +1,16 @@
 
 ### Sponsorship
 
-* Each Standard Sponosrship package entitles the sponsor to a 2 person desk in the City View Suite ( [Floor Plan](https://github.com/PyConLimerick/Limerick2020/blob/master/Strand%20Hotel%20-%206th%20floor.pdf)
+* Each Standard Sponsorship package entitles the sponsor to a two-person desk in the City View Suite ( [Floor Plan](https://github.com/PyConLimerick/Limerick2020/blob/master/Strand%20Hotel%20-%206th%20floor.pdf) )
  - There will be no separator between the City View and Harris Suites.
- - Coffee will be served in the City View suite also, and attendee would be encouraged to interact with the sponsors.
-* There will be a maximum of 8 standard sponosrship packages.
+ - Coffee will be served in the City View suite also, and attendee would be located in proximity to the sponsors.
+* There will be a maximum of 8 standard sponsorship packages. 
+ - In addition there may be small sponsorship arrangements e.g. raffle prizes for students.
 
 ### Expected Attendence
 
-* We expect an attendance of approximately 150 people (including speakers).
-* This figure is supplemented by the organizing team members and sponsors ( approximately 10-15)
+* We expect an attendance of approximately 150-160 people (including speakers).
+* This figure is supplemented by the organizing team members and sponsors (approximately 10-15).
 * The event was announced in September 2019. It has been actively promoted on a regional level since the announcement, and on national level since October 2019 (i.e. just after PyCon Ireland 2019).
 
 ### PyCon Limerick 2019
