@@ -36,7 +36,10 @@ We noted that the timing coincided with project work deadlines with many third l
 
 #### What is included in catering ?
 
-* Only coffee break, there is a break for lunch, but it is not included.
+* Only coffee break, there is a break for lunch, but it is not included as standard.
+* There are two coffee breaks, one in the morning, one in the afternoon. Both breaks are 25 minutes long.
+* Coffee will be served in the Sponsor Area, in close proximity to sponsors.
+ - In the event of overcrowding, we may use the front lobby also (to the left of the floor plan).
 
 ### Do we need to buy ticket for our staff ?
 
@@ -45,7 +48,7 @@ We noted that the timing coincided with project work deadlines with many third l
 * Speakers will receive a link to claim their ticket for free. 
 * All other delegates are expected to buy a ticket, it is required to attend the talks or workshops.
 
-### VCatering
+### Lunch 
 
 * There will be a light lunch (soup and sandwiches) served at 13:00 on the ground floor restaurant. 
 * The sponsors will be issued with a voucher to get lunch.
