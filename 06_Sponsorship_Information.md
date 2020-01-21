@@ -66,7 +66,7 @@ This local team is expected to be joined by other Pythonistas in the mid-west re
 
 ### Keynotes
 
-There are not keynote sessions. This removes constraints on the schedulig.
+There are no keynote sessions planned for PyCon Limerick 2020. This removes constraints on the scheduling.
 The format of the event is to maximise the number of available slots to give as many people an opportunity to gain speaking experience, and then progress to speaking at
 larger events, e.g. PyCon Ireland, PyCon UK and Europython.
 Several prominent keynote speakers are expected to be in attendance.
