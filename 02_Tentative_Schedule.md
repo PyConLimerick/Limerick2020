@@ -15,8 +15,8 @@
 
 | |Room 1| Room 2 | Room 3 | Workshops 1| Workshops 2 |
 |-----|-------|-----|-----|-------|-------|
-|	11:45-12:15	|	 Dermot Canniffe	|	Stephen Finucane (Red Hat)	|	 Urja Pawar (PhD Student @ Cork IT)	|Jumping Rivers (Git) | Paul Palmes (Julia)|
-|	12:20-13.05	|	 Cheuk-Ho Ting (PyData London)	|	 Gary Chadwick (Cartoon Saloon)	|	 Allyn Hunt	|Jumping Rivers (Git) | Paul Palmes (Julia)|
+|	11:45-12:15	|	 Dermot Canniffe	|	Gary Chadwick (Cartoon Saloon)	|	 Urja Pawar (PhD Student @ Cork IT)	|Jumping Rivers (Git) | Paul Palmes (Julia)|
+|	12:20-13.05	|	 Cheuk-Ho Ting (PyData London)	|	Stephen Finucane (Red Hat) 	|	 Allyn Hunt	|Jumping Rivers (Git) | Paul Palmes (Julia)|
 
 #### Lunch Break 13:05-2.15
 
@@ -34,6 +34,6 @@
 
 | |Room 1| Room 2 | Room 3 | Room 4 | Workshops  |
 |---|-----|-----|-----|-------|-------|
-|3:45-4.15| Tania Allard (Microsoft)	|	 Meghana Rathi (UCD)	|	Kartik Sharma	|	…	| John McCarthy (Workshop) 	|
-|4.20-5.05 | Krunoslav Plecko	|	Matteo Perrico 	|	 Jaime Buelta (Rapid Ratings)	|	…	|	 John McCarthy (Workshop) 	|
+|3:45-4.15| Matteo Perrico 	|	 Meghana Rathi (UCD)	|	Jaime Buelta (Rapid Ratings)	|	…	| John McCarthy (Workshop) 	|
+|4.20-5.05 | Krunoslav Plecko	|		Tania Allard (Microsoft)|	 Kartik Sharma	|	…	|	 John McCarthy (Workshop) 	|
 
