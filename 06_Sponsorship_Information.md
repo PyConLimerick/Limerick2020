@@ -45,6 +45,15 @@ We noted that the timing coincided with project work deadlines with many third l
 * Speakers will receive a link to claim their ticket for free. 
 * All other delegates are expected to buy a ticket, it is required to attend the talks or workshops.
 
+### VCatering
+
+* There will be a light lunch (soup and sandwiches) served at 13:00 on the ground floor restaurant. 
+* The sponsors will be issued with a voucher to get lunch.
+* Many attendees will make their own arrangements for lunch. 
+  - In 2019, many attendees visited the [Curragower Bar Seafood restaurant](curragower.com). 
+  - This part of the day was hugely popular, and we know may people intend on going again, but we would like to make clear that it is a cost that we can not cover.
+
+
 ## Other Details
 
 ### Organizing Team
