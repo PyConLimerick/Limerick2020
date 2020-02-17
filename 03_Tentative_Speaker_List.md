@@ -24,8 +24,8 @@
 * 30 Minutes
 
 ### 8. Stephen Finucane
-*
-*
+* Getting started with Sphinx and Docutils
+* 45 Minutes
 
 ### 9. Miguel Grinsberg
 * Title: "I Want To Know What You Did Last Summer" - Engaging with the Python Community
