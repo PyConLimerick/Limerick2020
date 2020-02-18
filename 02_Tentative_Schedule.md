@@ -1,5 +1,5 @@
 
-#### Schedule and format is very provisional
+#### Schedule and format is still subject to change
 
 ## Morning Session 1
 
